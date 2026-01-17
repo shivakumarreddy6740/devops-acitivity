@@ -1,3 +1,3 @@
 function checkout() {
-    console.log("Checkout handled by Vikram");
+    console.log("Checkout handled by Priya with validation");
 }
